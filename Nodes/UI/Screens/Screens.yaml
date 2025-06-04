@@ -12,7 +12,7 @@ Children:
     - Name: Text
       Type: BaseDataVariableType
       DataType: LocalizedText
-      Value: {"LocaleId":"en-US","Text":"Update"}
+      Value: {"LocaleId":"en-US","Text":""}
     - Name: Width
       Type: BaseVariableType
       DataType: Size
